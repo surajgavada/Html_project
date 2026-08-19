@@ -1,39 +1,7 @@
-
-#Box{
-    background-color:rgba(255,0, 0, 0.5);
-    width: 100px;
-    height: 100px;
-    padding: 25px;
-    margin: 25px;
-    display: inline-block;
-    border: 2px solid black;
-
-}
-#box2{
-    background-color:  rgba(0,255, 0, 0.5);
-    width: 100px;
-    height: 100px;
-    padding: 25px;
-    margin: 25px;
-    display: inline-block;
-    border: 2px solid black;
-
-}
-#box3{
-    background-color:rgba(0,0, 255, 0.5);
-    width: 100px;
-    height: 100px;
-    padding: 25px;
-    margin: 25px;
-    display: inline-block;
-    border: 2px solid black;
-
-
-}
 *{
     padding: 0px;
     margin: 0px;
-    color: hsl(0, 0%, 100%);
+    color: white;
 }
 #navbar {
     color: aliceblue;
@@ -51,16 +19,6 @@ button{
     color: #f08804;
 }
 a{
-    margin-right: 100px;
+    margin-right: 200px;
     text-decoration: none;
-}
-h3{
-    color: #0f1111;
-}
-footer{
-    text-align: center;
-    background-color: #0f1111;
-}
-#content{
-    height:390px;
 }
